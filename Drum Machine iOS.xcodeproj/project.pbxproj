@@ -13,7 +13,7 @@
 		5ED012A725FF9B87001CE9DC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012A525FF9B87001CE9DC /* Main.storyboard */; };
 		5ED012A925FF9B96001CE9DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012A825FF9B96001CE9DC /* Assets.xcassets */; };
 		5ED012AC25FF9B96001CE9DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012AA25FF9B96001CE9DC /* LaunchScreen.storyboard */; };
-		5ED012B425FFC5A6001CE9DC /* Drum Machine iOS.app in Resources */ = {isa = PBXBuildFile; fileRef = 5ED0129C25FF9B87001CE9DC /* Drum Machine iOS.app */; };
+		5ED012E126000B09001CE9DC /* sounds in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012E026000B08001CE9DC /* sounds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +25,7 @@
 		5ED012A825FF9B96001CE9DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5ED012AB25FF9B96001CE9DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5ED012AD25FF9B96001CE9DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5ED012E026000B08001CE9DC /* sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = sounds; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		5ED0129325FF9B86001CE9DC = {
 			isa = PBXGroup;
 			children = (
+				5ED012E026000B08001CE9DC /* sounds */,
 				5ED0129E25FF9B87001CE9DC /* Drum Machine iOS */,
 				5ED0129D25FF9B87001CE9DC /* Products */,
 			);
@@ -125,10 +127,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5ED012E126000B09001CE9DC /* sounds in Resources */,
 				5ED012AC25FF9B96001CE9DC /* LaunchScreen.storyboard in Resources */,
 				5ED012A925FF9B96001CE9DC /* Assets.xcassets in Resources */,
 				5ED012A725FF9B87001CE9DC /* Main.storyboard in Resources */,
-				5ED012B425FFC5A6001CE9DC /* Drum Machine iOS.app in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
