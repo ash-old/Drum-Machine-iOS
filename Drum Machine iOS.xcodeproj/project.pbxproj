@@ -13,6 +13,23 @@
 		5ED012A725FF9B87001CE9DC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012A525FF9B87001CE9DC /* Main.storyboard */; };
 		5ED012A925FF9B96001CE9DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012A825FF9B96001CE9DC /* Assets.xcassets */; };
 		5ED012AC25FF9B96001CE9DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012AA25FF9B96001CE9DC /* LaunchScreen.storyboard */; };
+		5ED012B425FFC5A6001CE9DC /* Drum Machine iOS.app in Resources */ = {isa = PBXBuildFile; fileRef = 5ED0129C25FF9B87001CE9DC /* Drum Machine iOS.app */; };
+		5ED012CB25FFC7A3001CE9DC /* HighConga.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012BB25FFC7A1001CE9DC /* HighConga.wav */; };
+		5ED012CC25FFC7A3001CE9DC /* LowConga.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012BC25FFC7A1001CE9DC /* LowConga.wav */; };
+		5ED012CD25FFC7A3001CE9DC /* Cowbell.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012BD25FFC7A1001CE9DC /* Cowbell.wav */; };
+		5ED012CE25FFC7A3001CE9DC /* MidConga.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012BE25FFC7A1001CE9DC /* MidConga.wav */; };
+		5ED012CF25FFC7A3001CE9DC /* Shaker.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012BF25FFC7A2001CE9DC /* Shaker.wav */; };
+		5ED012D025FFC7A3001CE9DC /* ClosedHiHat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012C025FFC7A2001CE9DC /* ClosedHiHat.wav */; };
+		5ED012D125FFC7A3001CE9DC /* OpenHiHat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012C125FFC7A2001CE9DC /* OpenHiHat.wav */; };
+		5ED012D225FFC7A3001CE9DC /* HighTom.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012C225FFC7A2001CE9DC /* HighTom.wav */; };
+		5ED012D325FFC7A3001CE9DC /* Cymbal.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012C325FFC7A2001CE9DC /* Cymbal.wav */; };
+		5ED012D425FFC7A3001CE9DC /* Clave.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012C425FFC7A2001CE9DC /* Clave.wav */; };
+		5ED012D525FFC7A3001CE9DC /* Kick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012C525FFC7A2001CE9DC /* Kick.wav */; };
+		5ED012D625FFC7A3001CE9DC /* MidTom.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012C625FFC7A2001CE9DC /* MidTom.wav */; };
+		5ED012D725FFC7A3001CE9DC /* Rimshot.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012C725FFC7A2001CE9DC /* Rimshot.wav */; };
+		5ED012D825FFC7A3001CE9DC /* Snare.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012C825FFC7A2001CE9DC /* Snare.wav */; };
+		5ED012D925FFC7A3001CE9DC /* Clap.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012C925FFC7A3001CE9DC /* Clap.wav */; };
+		5ED012DA25FFC7A3001CE9DC /* LowTom.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012CA25FFC7A3001CE9DC /* LowTom.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +41,22 @@
 		5ED012A825FF9B96001CE9DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5ED012AB25FF9B96001CE9DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5ED012AD25FF9B96001CE9DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5ED012BB25FFC7A1001CE9DC /* HighConga.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = HighConga.wav; sourceTree = "<group>"; };
+		5ED012BC25FFC7A1001CE9DC /* LowConga.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = LowConga.wav; sourceTree = "<group>"; };
+		5ED012BD25FFC7A1001CE9DC /* Cowbell.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Cowbell.wav; sourceTree = "<group>"; };
+		5ED012BE25FFC7A1001CE9DC /* MidConga.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MidConga.wav; sourceTree = "<group>"; };
+		5ED012BF25FFC7A2001CE9DC /* Shaker.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Shaker.wav; sourceTree = "<group>"; };
+		5ED012C025FFC7A2001CE9DC /* ClosedHiHat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ClosedHiHat.wav; sourceTree = "<group>"; };
+		5ED012C125FFC7A2001CE9DC /* OpenHiHat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = OpenHiHat.wav; sourceTree = "<group>"; };
+		5ED012C225FFC7A2001CE9DC /* HighTom.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = HighTom.wav; sourceTree = "<group>"; };
+		5ED012C325FFC7A2001CE9DC /* Cymbal.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Cymbal.wav; sourceTree = "<group>"; };
+		5ED012C425FFC7A2001CE9DC /* Clave.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Clave.wav; sourceTree = "<group>"; };
+		5ED012C525FFC7A2001CE9DC /* Kick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Kick.wav; sourceTree = "<group>"; };
+		5ED012C625FFC7A2001CE9DC /* MidTom.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MidTom.wav; sourceTree = "<group>"; };
+		5ED012C725FFC7A2001CE9DC /* Rimshot.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Rimshot.wav; sourceTree = "<group>"; };
+		5ED012C825FFC7A2001CE9DC /* Snare.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Snare.wav; sourceTree = "<group>"; };
+		5ED012C925FFC7A3001CE9DC /* Clap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Clap.wav; sourceTree = "<group>"; };
+		5ED012CA25FFC7A3001CE9DC /* LowTom.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = LowTom.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +89,7 @@
 		5ED0129E25FF9B87001CE9DC /* Drum Machine iOS */ = {
 			isa = PBXGroup;
 			children = (
+				5ED012BA25FFC777001CE9DC /* Sounds */,
 				5ED0129F25FF9B87001CE9DC /* AppDelegate.swift */,
 				5ED012A125FF9B87001CE9DC /* SceneDelegate.swift */,
 				5ED012A325FF9B87001CE9DC /* ViewController.swift */,
@@ -65,6 +99,29 @@
 				5ED012AD25FF9B96001CE9DC /* Info.plist */,
 			);
 			path = "Drum Machine iOS";
+			sourceTree = "<group>";
+		};
+		5ED012BA25FFC777001CE9DC /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				5ED012C925FFC7A3001CE9DC /* Clap.wav */,
+				5ED012C425FFC7A2001CE9DC /* Clave.wav */,
+				5ED012C025FFC7A2001CE9DC /* ClosedHiHat.wav */,
+				5ED012BD25FFC7A1001CE9DC /* Cowbell.wav */,
+				5ED012C325FFC7A2001CE9DC /* Cymbal.wav */,
+				5ED012BB25FFC7A1001CE9DC /* HighConga.wav */,
+				5ED012C225FFC7A2001CE9DC /* HighTom.wav */,
+				5ED012C525FFC7A2001CE9DC /* Kick.wav */,
+				5ED012BC25FFC7A1001CE9DC /* LowConga.wav */,
+				5ED012CA25FFC7A3001CE9DC /* LowTom.wav */,
+				5ED012BE25FFC7A1001CE9DC /* MidConga.wav */,
+				5ED012C625FFC7A2001CE9DC /* MidTom.wav */,
+				5ED012C125FFC7A2001CE9DC /* OpenHiHat.wav */,
+				5ED012C725FFC7A2001CE9DC /* Rimshot.wav */,
+				5ED012BF25FFC7A2001CE9DC /* Shaker.wav */,
+				5ED012C825FFC7A2001CE9DC /* Snare.wav */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +181,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5ED012DA25FFC7A3001CE9DC /* LowTom.wav in Resources */,
+				5ED012D625FFC7A3001CE9DC /* MidTom.wav in Resources */,
+				5ED012CC25FFC7A3001CE9DC /* LowConga.wav in Resources */,
+				5ED012D525FFC7A3001CE9DC /* Kick.wav in Resources */,
 				5ED012AC25FF9B96001CE9DC /* LaunchScreen.storyboard in Resources */,
+				5ED012CF25FFC7A3001CE9DC /* Shaker.wav in Resources */,
+				5ED012CE25FFC7A3001CE9DC /* MidConga.wav in Resources */,
+				5ED012CB25FFC7A3001CE9DC /* HighConga.wav in Resources */,
+				5ED012D025FFC7A3001CE9DC /* ClosedHiHat.wav in Resources */,
+				5ED012D925FFC7A3001CE9DC /* Clap.wav in Resources */,
+				5ED012D825FFC7A3001CE9DC /* Snare.wav in Resources */,
 				5ED012A925FF9B96001CE9DC /* Assets.xcassets in Resources */,
+				5ED012CD25FFC7A3001CE9DC /* Cowbell.wav in Resources */,
+				5ED012D425FFC7A3001CE9DC /* Clave.wav in Resources */,
+				5ED012D125FFC7A3001CE9DC /* OpenHiHat.wav in Resources */,
+				5ED012D725FFC7A3001CE9DC /* Rimshot.wav in Resources */,
+				5ED012D325FFC7A3001CE9DC /* Cymbal.wav in Resources */,
 				5ED012A725FF9B87001CE9DC /* Main.storyboard in Resources */,
+				5ED012B425FFC5A6001CE9DC /* Drum Machine iOS.app in Resources */,
+				5ED012D225FFC7A3001CE9DC /* HighTom.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
