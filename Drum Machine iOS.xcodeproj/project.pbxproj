@@ -13,7 +13,22 @@
 		5ED012A725FF9B87001CE9DC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012A525FF9B87001CE9DC /* Main.storyboard */; };
 		5ED012A925FF9B96001CE9DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012A825FF9B96001CE9DC /* Assets.xcassets */; };
 		5ED012AC25FF9B96001CE9DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012AA25FF9B96001CE9DC /* LaunchScreen.storyboard */; };
-		5ED012E126000B09001CE9DC /* sounds in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012E026000B08001CE9DC /* sounds */; };
+		5ED012F726001831001CE9DC /* CLAP.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012F126001746001CE9DC /* CLAP.wav */; };
+		5ED012F826001831001CE9DC /* CLAVE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012E626001744001CE9DC /* CLAVE.wav */; };
+		5ED012F926001831001CE9DC /* CLOSED HI-HAT.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012EE26001745001CE9DC /* CLOSED HI-HAT.wav */; };
+		5ED012FA26001831001CE9DC /* COWBELL.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012E826001745001CE9DC /* COWBELL.wav */; };
+		5ED012FB26001831001CE9DC /* CYMBAL.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012F226001746001CE9DC /* CYMBAL.wav */; };
+		5ED012FC26001831001CE9DC /* HIGH CONGA.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012EA26001745001CE9DC /* HIGH CONGA.wav */; };
+		5ED012FD26001831001CE9DC /* HIGH TOM.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012E726001745001CE9DC /* HIGH TOM.wav */; };
+		5ED012FE26001831001CE9DC /* KICK.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012E526001744001CE9DC /* KICK.wav */; };
+		5ED012FF26001831001CE9DC /* LOW CONGA.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012F026001745001CE9DC /* LOW CONGA.wav */; };
+		5ED0130026001831001CE9DC /* LOW TOM.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012E926001745001CE9DC /* LOW TOM.wav */; };
+		5ED0130126001831001CE9DC /* MID CONGA.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012EB26001745001CE9DC /* MID CONGA.wav */; };
+		5ED0130226001831001CE9DC /* MID TOM.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012F326001747001CE9DC /* MID TOM.wav */; };
+		5ED0130326001831001CE9DC /* OPEN HI-HAT.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012EF26001745001CE9DC /* OPEN HI-HAT.wav */; };
+		5ED0130426001831001CE9DC /* RIM SHOT.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012F426001747001CE9DC /* RIM SHOT.wav */; };
+		5ED0130526001831001CE9DC /* SHAKER.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012EC26001745001CE9DC /* SHAKER.wav */; };
+		5ED0130626001831001CE9DC /* SNARE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5ED012ED26001745001CE9DC /* SNARE.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +40,22 @@
 		5ED012A825FF9B96001CE9DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5ED012AB25FF9B96001CE9DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5ED012AD25FF9B96001CE9DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5ED012E026000B08001CE9DC /* sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = sounds; sourceTree = "<group>"; };
+		5ED012E526001744001CE9DC /* KICK.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = KICK.wav; sourceTree = "<group>"; };
+		5ED012E626001744001CE9DC /* CLAVE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = CLAVE.wav; sourceTree = "<group>"; };
+		5ED012E726001745001CE9DC /* HIGH TOM.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "HIGH TOM.wav"; sourceTree = "<group>"; };
+		5ED012E826001745001CE9DC /* COWBELL.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = COWBELL.wav; sourceTree = "<group>"; };
+		5ED012E926001745001CE9DC /* LOW TOM.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "LOW TOM.wav"; sourceTree = "<group>"; };
+		5ED012EA26001745001CE9DC /* HIGH CONGA.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "HIGH CONGA.wav"; sourceTree = "<group>"; };
+		5ED012EB26001745001CE9DC /* MID CONGA.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "MID CONGA.wav"; sourceTree = "<group>"; };
+		5ED012EC26001745001CE9DC /* SHAKER.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SHAKER.wav; sourceTree = "<group>"; };
+		5ED012ED26001745001CE9DC /* SNARE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SNARE.wav; sourceTree = "<group>"; };
+		5ED012EE26001745001CE9DC /* CLOSED HI-HAT.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "CLOSED HI-HAT.wav"; sourceTree = "<group>"; };
+		5ED012EF26001745001CE9DC /* OPEN HI-HAT.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "OPEN HI-HAT.wav"; sourceTree = "<group>"; };
+		5ED012F026001745001CE9DC /* LOW CONGA.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "LOW CONGA.wav"; sourceTree = "<group>"; };
+		5ED012F126001746001CE9DC /* CLAP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = CLAP.wav; sourceTree = "<group>"; };
+		5ED012F226001746001CE9DC /* CYMBAL.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = CYMBAL.wav; sourceTree = "<group>"; };
+		5ED012F326001747001CE9DC /* MID TOM.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "MID TOM.wav"; sourceTree = "<group>"; };
+		5ED012F426001747001CE9DC /* RIM SHOT.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "RIM SHOT.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +72,22 @@
 		5ED0129325FF9B86001CE9DC = {
 			isa = PBXGroup;
 			children = (
-				5ED012E026000B08001CE9DC /* sounds */,
+				5ED012F126001746001CE9DC /* CLAP.wav */,
+				5ED012E626001744001CE9DC /* CLAVE.wav */,
+				5ED012EE26001745001CE9DC /* CLOSED HI-HAT.wav */,
+				5ED012E826001745001CE9DC /* COWBELL.wav */,
+				5ED012F226001746001CE9DC /* CYMBAL.wav */,
+				5ED012EA26001745001CE9DC /* HIGH CONGA.wav */,
+				5ED012E726001745001CE9DC /* HIGH TOM.wav */,
+				5ED012E526001744001CE9DC /* KICK.wav */,
+				5ED012F026001745001CE9DC /* LOW CONGA.wav */,
+				5ED012E926001745001CE9DC /* LOW TOM.wav */,
+				5ED012EB26001745001CE9DC /* MID CONGA.wav */,
+				5ED012F326001747001CE9DC /* MID TOM.wav */,
+				5ED012EF26001745001CE9DC /* OPEN HI-HAT.wav */,
+				5ED012F426001747001CE9DC /* RIM SHOT.wav */,
+				5ED012EC26001745001CE9DC /* SHAKER.wav */,
+				5ED012ED26001745001CE9DC /* SNARE.wav */,
 				5ED0129E25FF9B87001CE9DC /* Drum Machine iOS */,
 				5ED0129D25FF9B87001CE9DC /* Products */,
 			);
@@ -127,7 +172,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5ED012E126000B09001CE9DC /* sounds in Resources */,
+				5ED012F726001831001CE9DC /* CLAP.wav in Resources */,
+				5ED012F826001831001CE9DC /* CLAVE.wav in Resources */,
+				5ED012F926001831001CE9DC /* CLOSED HI-HAT.wav in Resources */,
+				5ED012FA26001831001CE9DC /* COWBELL.wav in Resources */,
+				5ED012FB26001831001CE9DC /* CYMBAL.wav in Resources */,
+				5ED012FC26001831001CE9DC /* HIGH CONGA.wav in Resources */,
+				5ED012FD26001831001CE9DC /* HIGH TOM.wav in Resources */,
+				5ED012FE26001831001CE9DC /* KICK.wav in Resources */,
+				5ED012FF26001831001CE9DC /* LOW CONGA.wav in Resources */,
+				5ED0130026001831001CE9DC /* LOW TOM.wav in Resources */,
+				5ED0130126001831001CE9DC /* MID CONGA.wav in Resources */,
+				5ED0130226001831001CE9DC /* MID TOM.wav in Resources */,
+				5ED0130326001831001CE9DC /* OPEN HI-HAT.wav in Resources */,
+				5ED0130426001831001CE9DC /* RIM SHOT.wav in Resources */,
+				5ED0130526001831001CE9DC /* SHAKER.wav in Resources */,
+				5ED0130626001831001CE9DC /* SNARE.wav in Resources */,
 				5ED012AC25FF9B96001CE9DC /* LaunchScreen.storyboard in Resources */,
 				5ED012A925FF9B96001CE9DC /* Assets.xcassets in Resources */,
 				5ED012A725FF9B87001CE9DC /* Main.storyboard in Resources */,
