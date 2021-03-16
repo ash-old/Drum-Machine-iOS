@@ -16,14 +16,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="aqo-De-OiV">
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="aqo-De-OiV">
                                 <rect key="frame" x="0.0" y="44" width="390" height="766"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="pM7-dw-rX5">
-                                        <rect key="frame" x="0.0" y="0.0" width="390" height="184"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="390" height="189.33333333333334"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="o0B-6r-cHC">
-                                                <rect key="frame" x="0.0" y="0.0" width="95.333333333333329" height="184"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="95.333333333333329" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <state key="normal" title="KICK">
@@ -35,7 +35,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zja-rs-veU">
-                                                <rect key="frame" x="98.333333333333343" y="0.0" width="95.333333333333343" height="184"/>
+                                                <rect key="frame" x="98.333333333333343" y="0.0" width="95.333333333333343" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <state key="normal" title="SNARE">
@@ -47,7 +47,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="tBR-Ks-aAj">
-                                                <rect key="frame" x="196.66666666666666" y="0.0" width="94.999999999999972" height="184"/>
+                                                <rect key="frame" x="196.66666666666666" y="0.0" width="94.999999999999972" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <state key="normal" title="OPEN HI-HAT">
@@ -59,7 +59,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="syv-Pr-Pcc">
-                                                <rect key="frame" x="294.66666666666669" y="0.0" width="95.333333333333314" height="184"/>
+                                                <rect key="frame" x="294.66666666666669" y="0.0" width="95.333333333333314" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="CLOSED HI-HAT">
@@ -73,10 +73,10 @@
                                         </subviews>
                                     </stackView>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="CZf-Zf-59E">
-                                        <rect key="frame" x="0.0" y="194" width="390" height="184"/>
+                                        <rect key="frame" x="0.0" y="192.33333333333331" width="390" height="189.33333333333331"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wp3-wl-EMB">
-                                                <rect key="frame" x="0.0" y="0.0" width="95.333333333333329" height="184"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="95.333333333333329" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <state key="normal" title="CYMBAL">
@@ -88,7 +88,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AjZ-2d-r5T">
-                                                <rect key="frame" x="98.333333333333343" y="0.0" width="95.333333333333343" height="184"/>
+                                                <rect key="frame" x="98.333333333333343" y="0.0" width="95.333333333333343" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <state key="normal" title="CLAP">
@@ -100,7 +100,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Pmo-lI-FRN">
-                                                <rect key="frame" x="196.66666666666666" y="0.0" width="94.999999999999972" height="184"/>
+                                                <rect key="frame" x="196.66666666666666" y="0.0" width="94.999999999999972" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="COWBELL">
@@ -112,7 +112,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="goJ-6H-Mcf">
-                                                <rect key="frame" x="294.66666666666669" y="0.0" width="95.333333333333314" height="184"/>
+                                                <rect key="frame" x="294.66666666666669" y="0.0" width="95.333333333333314" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="CLAVE">
@@ -126,10 +126,10 @@
                                         </subviews>
                                     </stackView>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="yhY-xF-eVy">
-                                        <rect key="frame" x="0.0" y="388" width="390" height="184"/>
+                                        <rect key="frame" x="0.0" y="384.66666666666669" width="390" height="189.00000000000006"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="MNk-fu-J7m">
-                                                <rect key="frame" x="0.0" y="0.0" width="95.333333333333329" height="184"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="95.333333333333329" height="189"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="LOW TOM">
@@ -141,7 +141,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Cq4-QC-8H4">
-                                                <rect key="frame" x="98.333333333333343" y="0.0" width="95.333333333333343" height="184"/>
+                                                <rect key="frame" x="98.333333333333343" y="0.0" width="95.333333333333343" height="189"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="MID TOM">
@@ -153,7 +153,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Egh-FD-Ngh">
-                                                <rect key="frame" x="196.66666666666666" y="0.0" width="94.999999999999972" height="184"/>
+                                                <rect key="frame" x="196.66666666666666" y="0.0" width="94.999999999999972" height="189"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="HIGH TOM">
@@ -165,7 +165,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="vOJ-xm-GZs">
-                                                <rect key="frame" x="294.66666666666669" y="0.0" width="95.333333333333314" height="184"/>
+                                                <rect key="frame" x="294.66666666666669" y="0.0" width="95.333333333333314" height="189"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="RIM SHOT">
@@ -179,10 +179,10 @@
                                         </subviews>
                                     </stackView>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="Afu-Dz-0ZX">
-                                        <rect key="frame" x="0.0" y="582" width="390" height="184"/>
+                                        <rect key="frame" x="0.0" y="576.66666666666663" width="390" height="189.33333333333337"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="TJw-WD-raj">
-                                                <rect key="frame" x="0.0" y="0.0" width="95.333333333333329" height="184"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="95.333333333333329" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="LOW CONGA">
@@ -194,7 +194,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Wjm-WZ-gAc">
-                                                <rect key="frame" x="98.333333333333343" y="0.0" width="95.333333333333343" height="184"/>
+                                                <rect key="frame" x="98.333333333333343" y="0.0" width="95.333333333333343" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="MID CONGA">
@@ -206,7 +206,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="BfD-8I-01X">
-                                                <rect key="frame" x="196.66666666666666" y="0.0" width="94.999999999999972" height="184"/>
+                                                <rect key="frame" x="196.66666666666666" y="0.0" width="94.999999999999972" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="HIGH CONGA">
@@ -218,7 +218,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="zp1-In-uuP">
-                                                <rect key="frame" x="294.66666666666669" y="0.0" width="95.333333333333314" height="184"/>
+                                                <rect key="frame" x="294.66666666666669" y="0.0" width="95.333333333333314" height="189.33333333333334"/>
                                                 <color key="backgroundColor" systemColor="linkColor"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                                                 <state key="normal" title="SHAKER">
