@@ -17,7 +17,7 @@ Player loads up app and is presented with 16 buttons. Each button has a differen
 6. Once opened, Run project and play!
 
 
-
+![](images/launchScreen.png)
 
 
 
