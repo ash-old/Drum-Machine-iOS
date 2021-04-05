@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5E2B16F926010D57001F34DB /* launchScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E2B16F726010D57001F34DB /* launchScreen.png */; };
-		5E2B16FA26010D57001F34DB /* mainAppScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E2B16F826010D57001F34DB /* mainAppScreen.png */; };
+		5ECF63FC261B8F5800F0A080 /* launchScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 5ECF63FA261B8F5800F0A080 /* launchScreen.png */; };
+		5ECF63FD261B8F5800F0A080 /* mainAppScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 5ECF63FB261B8F5800F0A080 /* mainAppScreen.png */; };
 		5ED012A025FF9B87001CE9DC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED0129F25FF9B87001CE9DC /* AppDelegate.swift */; };
 		5ED012A225FF9B87001CE9DC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED012A125FF9B87001CE9DC /* SceneDelegate.swift */; };
 		5ED012A425FF9B87001CE9DC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED012A325FF9B87001CE9DC /* ViewController.swift */; };
@@ -34,9 +34,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5E2B16F726010D57001F34DB /* launchScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launchScreen.png; sourceTree = "<group>"; };
-		5E2B16F826010D57001F34DB /* mainAppScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainAppScreen.png; sourceTree = "<group>"; };
 		5ECF63F5261B898D00F0A080 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5ECF63FA261B8F5800F0A080 /* launchScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launchScreen.png; sourceTree = "<group>"; };
+		5ECF63FB261B8F5800F0A080 /* mainAppScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainAppScreen.png; sourceTree = "<group>"; };
 		5ED0129C25FF9B87001CE9DC /* Drum Machine iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Drum Machine iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ED0129F25FF9B87001CE9DC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5ED012A125FF9B87001CE9DC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,8 +77,8 @@
 		5E2B16F626010C9C001F34DB /* images */ = {
 			isa = PBXGroup;
 			children = (
-				5E2B16F726010D57001F34DB /* launchScreen.png */,
-				5E2B16F826010D57001F34DB /* mainAppScreen.png */,
+				5ECF63FA261B8F5800F0A080 /* launchScreen.png */,
+				5ECF63FB261B8F5800F0A080 /* mainAppScreen.png */,
 			);
 			path = images;
 			sourceTree = "<group>";
@@ -198,20 +198,20 @@
 			files = (
 				5ED012F726001831001CE9DC /* CLAP.wav in Resources */,
 				5ED012F826001831001CE9DC /* CLAVE.wav in Resources */,
+				5ECF63FC261B8F5800F0A080 /* launchScreen.png in Resources */,
 				5ED012F926001831001CE9DC /* CLOSED HI-HAT.wav in Resources */,
 				5ED012FA26001831001CE9DC /* COWBELL.wav in Resources */,
 				5ED012FB26001831001CE9DC /* CYMBAL.wav in Resources */,
 				5ED012FC26001831001CE9DC /* HIGH CONGA.wav in Resources */,
 				5ED012FD26001831001CE9DC /* HIGH TOM.wav in Resources */,
-				5E2B16F926010D57001F34DB /* launchScreen.png in Resources */,
 				5ED012FE26001831001CE9DC /* KICK.wav in Resources */,
 				5ED012FF26001831001CE9DC /* LOW CONGA.wav in Resources */,
 				5ED0130026001831001CE9DC /* LOW TOM.wav in Resources */,
 				5ED0130126001831001CE9DC /* MID CONGA.wav in Resources */,
 				5ED0130226001831001CE9DC /* MID TOM.wav in Resources */,
+				5ECF63FD261B8F5800F0A080 /* mainAppScreen.png in Resources */,
 				5ED0130326001831001CE9DC /* OPEN HI-HAT.wav in Resources */,
 				5ED0130426001831001CE9DC /* RIM SHOT.wav in Resources */,
-				5E2B16FA26010D57001F34DB /* mainAppScreen.png in Resources */,
 				5ED0130526001831001CE9DC /* SHAKER.wav in Resources */,
 				5ED0130626001831001CE9DC /* SNARE.wav in Resources */,
 				5ED012AC25FF9B96001CE9DC /* LaunchScreen.storyboard in Resources */,
