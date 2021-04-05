@@ -7,7 +7,7 @@ App designed to fit any screen size and also can be rotated.
 
 Player loads up app and is presented with 16 buttons. Each button has a different drum sound. Tap away and enjoy making some beats!
 
-# TO RUN APP -
+## TO RUN APP -
 
 1. Hit the green 'Code' button on this repo and copy the link to clone project
 2. Load up xcode.
