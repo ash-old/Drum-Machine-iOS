@@ -16,8 +16,10 @@ Player loads up app and is presented with 16 buttons. Each button has a differen
 5. Navigate to where project is to be saved
 6. Once opened, Run project and play!
 
-
+### Launch Screen
 ![](images/launchScreen.png)
 
+### Main App Screen
+![](images/mainAppScreen.png)
 
 
